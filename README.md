@@ -92,8 +92,3 @@ Fake-News-Detection-Using-Reinforcement-Learning
 📧 yaswanthkumarchaganti@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/yaswanthkumar1405/) | [GitHub](https://github.com/Yaswanthkumar1405)
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
