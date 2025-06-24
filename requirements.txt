@@ -1,0 +1,26 @@
+Requirements 
+!pip install tensorflow==2.7 #It is used to install TensorFlow version 2 using the pip package manager in a Python environment 
+!pip install keras-rectified-adam--0.20.0 #It is used to install the Keras Rectified Adam (RAdam) optimizer in a Python environment using the pip package manager. 
+import pandas as pd==1.4.4 # It is used to import the pandas library in a Python. It is used for data manipulation and analysis in Python. 
+import csv==1.0# It used to import the csv module in a Python environment. provides functionality for working with CSV (Comma Separated Values) files. 
+import tensorflow as tf# It is used to import the TensorFlow library in a Python environment and create an alias tf for it. TensorFlow is an open-source machine learning library. 
+import numpy as np==1.23.5# It is used to import the NumPy library in a Python environment and create an alias np. NumPy is a popular library for numerical computing in Python.
+pip install matplotlib==3.5.2
+import matplotlib.pyplot as plt #import the `pyplot` module from the `matplotlib` library, and assign it the alias name `plt`. You can then use `plt` as a shorthand for `matplotlib.pyplot` in your code, just like you would with any other version of the library.
+import sklearn==1.0.2 ## The above line imports the `sklearn` (also known as scikit-learn) library, which is a powerful and popular Python library for machine learning. It provides a wide range of tools and algorithms for tasks such as classification, regression, clustering, and more.
+from sklearn.feature_extraction.text import TfidfTransformer# It is used to import the TfidfTransformer class from the feature_extraction.text module of the scikit-learn library in a Python environment. 
+from sklearn.feature_extraction.text import TfidfVectorize# The class is used to convert a collection of raw documents into a matrix 
+from sklearn.model_selection import train_test_split # It used to import the train_test_split function from the model_selection module of the scikit-learn library in a Python environment. 
+from tensorflow.keras.layers import Input, Dense, LSTM#It is used to import the Input, Dense, and LSTM layers from the layers module of the keras module within the TensorFlow library. 
+from tensorflow.keras.models import Model#It is used to import the Model class from the models module of the keras module within the TensorFlow library. 
+from tensorflow.keras.optimizers import Adam#It is used to import the Adam optimizer from the optimizers module of the keras module within the TensorFlow library. 
+from sklearn.metrics import f1_score# It is used to import the f1_score function from the metrics module of the scikit-learn library in a Python environment. 
+from sklearn.metrics import classification_report# It is used to import the classification report function from the metrics module of the scikit-learn library in a Python environment. 
+ 
+ 
+
+
+
+
+	
+ 
